@@ -26,5 +26,5 @@ func reverseWords(s string) string {
 }
 
 func main() {
-	fmt.Println(reverseWords("snow dog sun — sun dog snow"))
+	fmt.Println(reverseWords("snow dog sun — sun dog snow")) // wons god nus — nus god wons
 }
