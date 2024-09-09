@@ -4,6 +4,9 @@ import (
 	"fmt"
 )
 
+// Реализовать быструю сортировку массива (quicksort) встроенными методами
+// языка.
+
 func quicksort(nums []int) []int {
 
 	if len(nums) < 2 {
